@@ -7,4 +7,8 @@ let filtered = array.filter((element) => {
   }
 });
 
-console.log(filteredArray);
+const convertUsdToAud = (dollars) => {
+  return 0;
+}
+
+console.log(filtered);
